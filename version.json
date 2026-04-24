@@ -1,11 +1,11 @@
 {
   "version_code": 2,
-  "version_name": "2.1",
+  "version_name": "2.2",
   "apk_url": "https://github.com/alfazhetta-arch/F0x_S4y-updates/releases/download/v2.0/app-release.apk",
   "whats_new": "✓ Primera version\n✓ Mensajeria encriptada\n✓ Mensajes de voz\n✓ Sistema de calificaciones\n✓ Ranking de usuarios",
   "mandatory": false,
   "file_checksum": "D7:02:0B:B7:65:86:E8:BF:B0:19:53:06:DD:99:79:5E:26:E9:95:31:A0:66:59:24:6D:42:F3:6C:EC:79:CE:4C",
-  "file_size_mb": 15.5,
+  "file_size_mb": 11.1,
   "min_os_version": "10",
   "release_date": "2026-04-24"
 }
