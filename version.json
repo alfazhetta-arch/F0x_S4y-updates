@@ -1,11 +1,11 @@
 {
-  "version_code": 1,
-  "version_name": 1.0",
+  "version_code": 2,
+  "version_name": 0.9:7637-BETA",
   "apk_url": "https://github.com/alfazhetta-arch/F0x_S4y-updates/releases/download/Version/app-release.apk",
-  "whats_new": "✓ Primera version\n✓ Mensajeria encriptada\n✓ Mensajes de voz\n✓ Sistema de calificaciones\n✓ Ranking de usuarios",
+  "whats_new": "¡NUEVO! Menu al tocar nombre de usuario (calificar y ver perfil)\n¡NUEVO! Visualizacion de ROL de cada usuario en mensajes\n¡NUEVO! Seccion Mapa DOMOS y Mapa EVENTOS habilitados\n¡NUEVO! Mostrar foto del usuario en globos de mensaje\n¡NUEVO! Ocultar foto y nombre de usuario en mensajes seguidos\n¡NUEVO! Estilizacion de globos de mensaje\n¡NUEVO! Correccion de error de rol al crear Chats Individuales",
   "mandatory": false,
   "file_checksum": "D7:02:0B:B7:65:86:E8:BF:B0:19:53:06:DD:99:79:5E:26:E9:95:31:A0:66:59:24:6D:42:F3:6C:EC:79:CE:4C",
-  "file_size_mb": 12.9,
+  "file_size_mb": 18.3,
   "min_os_version": "10",
-  "release_date": "2026-04-30"
+  "release_date": "2026-05-09"
 }
