@@ -1,6 +1,6 @@
 {
   "version_code": 2,
-  "version_name": 0.9:7637-BETA",
+  "version_name": 0.9:7637-BETA,
   "apk_url": "https://github.com/alfazhetta-arch/F0x_S4y-updates/releases/download/Version/app-release.apk",
   "whats_new": "¡NUEVO! Menu al tocar nombre de usuario (calificar y ver perfil)\n¡NUEVO! Visualizacion de ROL de cada usuario en mensajes\n¡NUEVO! Seccion Mapa DOMOS y Mapa EVENTOS habilitados\n¡NUEVO! Mostrar foto del usuario en globos de mensaje\n¡NUEVO! Ocultar foto y nombre de usuario en mensajes seguidos\n¡NUEVO! Estilizacion de globos de mensaje\n¡NUEVO! Correccion de error de rol al crear Chats Individuales",
   "mandatory": false,
